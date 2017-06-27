@@ -3,9 +3,16 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/APTDemo.iml" filepath="$PROJECT_DIR$/APTDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/APTDemo.iml" filepath="$PROJECT_DIR$/APTDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/apt-lib/apt-lib.iml" filepath="$PROJECT_DIR$/apt-lib/apt-lib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/apt-lib/apt-lib.iml" filepath="$PROJECT_DIR$/apt-lib/apt-lib.iml" />
       <module fileurl="file://$PROJECT_DIR$/apt-process/apt-process.iml" filepath="$PROJECT_DIR$/apt-process/apt-process.iml" />
+      <module fileurl="file://$PROJECT_DIR$/apt-process/apt-process.iml" filepath="$PROJECT_DIR$/apt-process/apt-process.iml" />
+      <module fileurl="file://$PROJECT_DIR$/viewFinder-annotation/viewFinder-annotation.iml" filepath="$PROJECT_DIR$/viewFinder-annotation/viewFinder-annotation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/viewfinder/viewfinder.iml" filepath="$PROJECT_DIR$/viewfinder/viewfinder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/viewfinder-compiler/viewfinder-compiler.iml" filepath="$PROJECT_DIR$/viewfinder-compiler/viewfinder-compiler.iml" />
     </modules>
   </component>
 </project>
